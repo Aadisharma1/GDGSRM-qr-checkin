@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+qrcode
+python-multipart
+sendgrid
+python-jose[cryptography]
+passlib
+alembic
